@@ -1,7 +1,7 @@
 Hi, I'm Ty Pederson, I'm currently finishing up my junior year as a 
 computer science major with a concentration in graphics and game design
 at Louisiana Tech University
-I have a passion for video games and am working my way to be a part of the game design industry. 
+I have a passion for video games and am working my way to be a part of the game design industry.
 I am currently working on learning Unity on the side as I continue with my classes.
 
 I have taken part in many group projects in my computer science classes, 
